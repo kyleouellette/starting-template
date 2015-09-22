@@ -17,7 +17,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "server": "http-server ./ -p 1337 -s -o"
+    "server": "./node_modules/http-server/bin/http-server ./ -p 1337 -o"
   },
   "author": "",
   "license": "ISC"
